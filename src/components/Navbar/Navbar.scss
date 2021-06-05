@@ -1,0 +1,11 @@
+.MuiFilledInput-underline::after,
+.MuiInput-underline::after {
+	border-bottom: 2px solid white !important;
+}
+.MuiSelect-select:not([multiple]) option {
+	background-color: #009688 !important;
+}
+
+.MuiSelect-select:focus {
+	background-color: transparent !important;
+}
