@@ -4,7 +4,7 @@ import FloatingLabel from "react-bootstrap-floating-label";
 
 import "./MainNavbar.scss";
 
-class MainNavbar extends React.Component {
+class BootstrapNavbar extends React.Component {
 	handleChange = (e) => {
 		this.props.handleSearchUpdate(e.target.value);
 	};
@@ -73,4 +73,4 @@ class MainNavbar extends React.Component {
 	}
 }
 
-export default MainNavbar;
+export default BootstrapNavbar;

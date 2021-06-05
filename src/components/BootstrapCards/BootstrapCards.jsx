@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { Card, ListGroup, ListGroupItem } from "react-bootstrap";
 
-export default class Cards extends Component {
+export default class BootstrapCards extends Component {
 	render() {
 		return (
 			<Card style={{ width: "18rem" }}>
