@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/api_cocktails_react/static/css/main.cb6ced7a.chunk.css",
+    "main.js": "/api_cocktails_react/static/js/main.67ee9151.chunk.js",
+    "main.js.map": "/api_cocktails_react/static/js/main.67ee9151.chunk.js.map",
+    "runtime-main.js": "/api_cocktails_react/static/js/runtime-main.34a7bd06.js",
+    "runtime-main.js.map": "/api_cocktails_react/static/js/runtime-main.34a7bd06.js.map",
+    "static/js/2.a9c8de7f.chunk.js": "/api_cocktails_react/static/js/2.a9c8de7f.chunk.js",
+    "static/js/2.a9c8de7f.chunk.js.map": "/api_cocktails_react/static/js/2.a9c8de7f.chunk.js.map",
+    "index.html": "/api_cocktails_react/index.html",
+    "static/css/main.cb6ced7a.chunk.css.map": "/api_cocktails_react/static/css/main.cb6ced7a.chunk.css.map",
+    "static/js/2.a9c8de7f.chunk.js.LICENSE.txt": "/api_cocktails_react/static/js/2.a9c8de7f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34a7bd06.js",
+    "static/js/2.a9c8de7f.chunk.js",
+    "static/css/main.cb6ced7a.chunk.css",
+    "static/js/main.67ee9151.chunk.js"
+  ]
+}
